@@ -15,4 +15,4 @@ python train_model.py
 ---
 # Launch 
 cd ..
-streamlit run app.py
+/streamlit run app.py
